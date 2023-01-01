@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "cssmy site",
+			"path": "."
+		},
+		{
+			"name": "CSS - My Site Images",
+			"path": "../../Downloads/CSS - My Site Images/CSS - My Site Images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cssmy site"
+	}
+}
